@@ -108,6 +108,10 @@ public class CrudOperationDemo {
 	        }
 				
 			}
+	static void m1()
+	{
+		System.out.println("inserted for git");
+	}
 
 }
 @Entity
